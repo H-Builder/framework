@@ -2820,7 +2820,7 @@ __metadata:
     dotenv: ^14.3.2
     globby: ^13.1.0
     hash-sum: ^2.0.0
-    jiti: ^1.12.14
+    jiti: ^1.12.15
     lodash.template: ^4.5.0
     mlly: ^0.4.1
     pathe: ^0.2.0
@@ -2914,7 +2914,7 @@ __metadata:
     hookable: ^5.1.1
     http-proxy: ^1.18.1
     is-primitive: ^3.0.1
-    jiti: ^1.12.14
+    jiti: ^1.12.15
     listhen: ^0.2.6
     mime: ^3.0.0
     mlly: ^0.4.1
@@ -2979,7 +2979,7 @@ __metadata:
     "@types/semver": ^7
     create-require: ^1.1.1
     defu: ^5.0.1
-    jiti: ^1.12.14
+    jiti: ^1.12.15
     pathe: ^0.2.0
     scule: ^0.2.1
     std-env: ^3.0.1
@@ -12559,12 +12559,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jiti@npm:^1.12.14":
-  version: 1.12.14
-  resolution: "jiti@npm:1.12.14"
+"jiti@npm:^1.12.15":
+  version: 1.12.15
+  resolution: "jiti@npm:1.12.15"
   bin:
     jiti: bin/jiti.js
-  checksum: a27b8afc3fa6a0348c6845b31ad7cffd1b1b3b6a765304909b9a355d183bcd7918da7fb202bc1833a473b43c193dc5b457004c0f08201cfcb43047c693547a60
+  checksum: 8e53259f427eb7a7c0cd834c284e18cd05760cb7f0f15b4971ab11874e8b0e7b15fc1f13000eb3a8c7f804ff15637a283d6595858811d61effe8c5aeaacb02ac
   languageName: node
   linkType: hard
 
@@ -14744,7 +14744,7 @@ __metadata:
     execa: ^6.0.0
     flat: ^5.0.2
     fsevents: ~2.3.2
-    jiti: ^1.12.14
+    jiti: ^1.12.15
     listhen: ^0.2.6
     mlly: ^0.4.1
     mri: ^1.2.0
@@ -14807,7 +14807,7 @@ __metadata:
     eslint-plugin-jsdoc: ^37.7.0
     execa: ^6.0.0
     globby: ^13.1.0
-    jiti: ^1.12.14
+    jiti: ^1.12.15
     lerna: ^4.0.0
     markdownlint-cli: ^0.30.0
     miniflare: ^1.4.1
